@@ -23,7 +23,7 @@ apply plugin: 'com.android.library'
 
 android {
     namespace "dev.kaichi.easy_pdf_viewer"
-    compileSdkVersion 30
+    compileSdkVersion 31
 
     defaultConfig {
         minSdkVersion 16
